@@ -26,4 +26,5 @@ Performance Graphs
 <img width="1004" height="374" alt="Unknown" src="https://github.com/user-attachments/assets/008c95ed-5e3e-47f0-b132-b9f6744d126a" />
 
 Future Improvement
+
 Plan to test with DINOV2 model to capture high level lesf texture patterns
