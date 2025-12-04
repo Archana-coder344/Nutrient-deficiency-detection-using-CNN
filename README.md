@@ -10,7 +10,7 @@ The main objective of this project is to:
 
 Dataset
 
-Source: kaggle
+Source:https://www.kaggle.com/datasets/warcoder/nutrient-deficient-banana-plant-leaves  kaggle
 
 Classes: boron  calcium	healthy  iron  magnesium  manganese  potassium	sulphur  zinc
 
