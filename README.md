@@ -9,10 +9,15 @@ The main objective of this project is to:
 * Support precision agriculture using AI.
 
 Dataset
+
 Source: kaggle
+
 Classes: boron  calcium	healthy  iron  magnesium  manganese  potassium	sulphur  zinc
+
 Loss Function: Categorical Cross Entropy
+
 Optimizer: Adam
+
 Metrics: Accuracy
 
 Tools and Libraries
